@@ -1,6 +1,6 @@
 module github.com/maheshshgit/crs-go
 
-go 1.26.1
+go 1.26
 
 require github.com/labstack/echo/v4 v4.15.1
 
